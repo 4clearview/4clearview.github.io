@@ -15,7 +15,7 @@ How much subsidy can you get for Tesla?
 >ref. [https://www.tesla.cn/support/vehicle-incentives](https://www.tesla.cn/support/vehicle-incentives)
 
 
-The New-Energy Vehicle Policy (2020/04/23) stipulates that in order to take the subsidy, the car price should not exceed ¥ 300,000, unless the car can operate using battery swapping ().
+The New-Energy Vehicle Policy (2020/04/23) stipulates that in order to take the subsidy, the car price should not exceed ¥ 300,000, unless the car can operate using battery swapping (rather than battery charging).
 >ref. [http://www.gov.cn/zhengce/zhengceku/2020-04/23/content_5505502.htm](http://www.gov.cn/zhengce/zhengceku/2020-04/23/content_5505502.htm)
 
 As a result, Tesla is going to reduce the price of Tesla 3 to below the thredshold for buyers to have 
